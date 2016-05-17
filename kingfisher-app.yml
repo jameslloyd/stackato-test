@@ -1,7 +1,7 @@
 store:
     title: Kingfisher Applications
     contact: James Lloyd <james@kingfisher.com>
-    icon: http://republic.pink/images/2/4/4/5/3/6/9/en/2-kingfisher-plc.jpg
+    icon: https://raw.githubusercontent.com/jameslloyd/stackato-test/master/kingfisherlogo.jpg
 
 apps:
 - name: DIY.com demo
