@@ -1,0 +1,16 @@
+store:
+    title: Kingfisher Applications
+    contact: James Lloyd <james@kingfisher.com>
+    icon: http://files.the-group.net/library/kgf/thumbnail/th_885.jpg
+
+apps:
+- name: DIY.com demo
+  id: diycom
+  desc: A PaaS demo of the DIY.com homepage
+  framework: php
+  runtime: php
+  commit: master
+  src: https://github.com/jameslloyd/diycom-test.git
+  info: https://github.com/jameslloyd/diycom-test.git#readme
+  icon: https://raw.githubusercontent.com/jameslloyd/diycom-test/master/DIY%20Supplies%20%26%20Accessories%20_%20Home%20%26%20Garden%20_%20DIY%20at%20B%26Q_files/site-logo.png
+  mem: 16
