@@ -23,4 +23,4 @@ apps:
   src: https://github.com/jameslloyd/stackato-mediawiki.git
   info: https://github.com/jameslloyd/stackato-mediawiki.git#readme
   icon: https://raw.githubusercontent.com/jameslloyd/diycom-test/master/DIY%20Supplies%20%26%20Accessories%20_%20Home%20%26%20Garden%20_%20DIY%20at%20B%26Q_files/site-logo.png
-  mem: 16
+  mem: 256
