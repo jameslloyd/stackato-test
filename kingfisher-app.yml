@@ -36,6 +36,18 @@ apps:
   icon: https://static-s.aa-cdn.net/img/gp/20600004734705/_I3tDwpygixV9Cd6lYNu9cgHZK7ash-6pkQ1edpjACL-lW9tD5HYx1F4GBOFrIRqUmD5=w300?v=1
   mem: 16
 
+- name: Screwfix UK demo
+  id: sfxuk
+  desc: A PaaS demo of the Screwfix UK homepage
+  framework: php
+  runtime: php
+  commit: master
+  src: https://github.com/jameslloyd/screfix-test
+  info: https://github.com/jameslloyd/screfix-test
+  icon: http://www.screwfix.com/assets/gfx/branding/screwfix-logo.svg
+  mem: 16
+
+http://www.screwfix.com/assets/gfx/branding/screwfix-logo.svg
 - name: Mediawiki
   id: mediawiki
   desc: MediaWiki stackatoified
