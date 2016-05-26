@@ -14,6 +14,17 @@ apps:
   icon: https://raw.githubusercontent.com/jameslloyd/diycom-test/master/DIY%20Supplies%20%26%20Accessories%20_%20Home%20%26%20Garden%20_%20DIY%20at%20B%26Q_files/site-logo.png
   mem: 16
 
+- name: Castorama.fr demo
+  id: castofr
+  desc: A PaaS demo of the Castorama fr homepage
+  framework: php
+  runtime: php
+  commit: master
+  src: https://github.com/jameslloyd/casto.fr-test
+  info: https://github.com/jameslloyd/casto.fr-test
+  icon: https://github.com/jameslloyd/casto.fr-test/raw/master/avatar.webp
+  mem: 16
+
 - name: Mediawiki
   id: mediawiki
   desc: MediaWiki stackatoified
