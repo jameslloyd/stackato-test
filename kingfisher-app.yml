@@ -47,7 +47,6 @@ apps:
   icon: http://www.screwfix.com/assets/gfx/branding/screwfix-logo.svg
   mem: 16
 
-http://www.screwfix.com/assets/gfx/branding/screwfix-logo.svg
 - name: Mediawiki
   id: mediawiki
   desc: MediaWiki stackatoified
@@ -56,5 +55,5 @@ http://www.screwfix.com/assets/gfx/branding/screwfix-logo.svg
   commit: master
   src: https://github.com/jameslloyd/stackato-mediawiki.git
   info: https://github.com/jameslloyd/stackato-mediawiki.git#readme
-  icon: https://raw.githubusercontent.com/jameslloyd/diycom-test/master/DIY%20Supplies%20%26%20Accessories%20_%20Home%20%26%20Garden%20_%20DIY%20at%20B%26Q_files/site-logo.png
+  icon: https://pbs.twimg.com/profile_images/1926215181/twitter_normal.jpg
   mem: 256
